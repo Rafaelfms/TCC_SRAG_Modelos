@@ -22,12 +22,9 @@ O trabalho usa os dados públicos do SIVEP-Gripe (Sistema de Informação da Vig
 ├── scripts/
 │   ├── resumir_srag.py              # Etapa 1: série mensal de todos os casos de SRAG
 │   └── extrair_base_srag_covid.py   # Etapa 2: base individual de SRAG-COVID
-├── notebooks/
+├── modelos/
 │   └── modelo_srag_covid.ipynb      # Etapa 3: tratamento final, modelos, tabelas e figuras
-└── dados/                           # não versionado (ver abaixo)
-    ├── brutos/                      # arquivos INFLUD baixados do OpenDataSUS
-    ├── resumos/                     # saída da etapa 1
-    └── base_covid/                  # saída da etapa 2
+
 ```
 
 ---
