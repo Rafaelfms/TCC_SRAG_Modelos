@@ -18,7 +18,6 @@ O trabalho usa os dados públicos do SIVEP-Gripe (Sistema de Informação da Vig
 ```
 .
 ├── README.md
-├── requirements.txt
 ├── scripts/
 │   ├── resumir_srag.py              # Etapa 1: série mensal de todos os casos de SRAG
 │   └── extrair_base_srag_covid.py   # Etapa 2: base individual de SRAG-COVID
