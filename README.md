@@ -4,7 +4,7 @@ Código do Trabalho de Conclusão de Curso da pós-graduação em Ciência de Da
 
 **Autor:** Rafael Felipe de Moraes e Sousa
 
-O trabalho usa os microdados públicos do SIVEP-Gripe (Sistema de Informação da Vigilância Epidemiológica da Gripe) para:
+O trabalho usa os dados públicos do SIVEP-Gripe (Sistema de Informação da Vigilância Epidemiológica da Gripe) para:
 
 1. descrever a evolução mensal dos casos de Síndrome Respiratória Aguda Grave (SRAG), a participação da COVID-19 e a letalidade da SRAG-COVID entre 2019 e 2026;
 2. estimar a associação entre a vacinação contra a COVID-19 e o óbito entre casos hospitalizados por SRAG-COVID (2021–2026), controlando por idade, sexo e comorbidades, com regressão logística, regressão de Poisson com variância robusta e XGBoost interpretado por SHAP.
